@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Package xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>SaswatiPKG</fullName>
+    <types>
+        <members>AccountContactiNfo</members>
+        <members>AccountDetails</members>
+        <members>AccountDetails1</members>
+        <name>ApexClass</name>
+    </types>
+    <types>
+        <members>CloneTrigger</members>
+        <members>CountNoOfChild</members>
+        <members>deleteRelatedChildRecord</members>
+        <name>ApexTrigger</name>
+    </types>
+    <types>
+        <members>CloneObject__c.Mobile_Number__c</members>
+        <members>CloneObject__c.My_Address__c</members>
+        <members>CloneObject__c.Objectnumber__c</members>
+        <members>CloneObject__c.Status__c</members>
+        <members>MainObject__c.Address__c</members>
+        <members>MainObject__c.No_Of_Child__c</members>
+        <members>MainObject__c.Phone_Number__c</members>
+        <name>CustomField</name>
+    </types>
+    <types>
+        <members>CloneObject__c</members>
+        <members>MainObject__c</members>
+        <name>CustomObject</name>
+    </types>
+    <types>
+        <members>CloneObject__c-CloneObject Layout</members>
+        <members>MainObject__c-MainObject Layout</members>
+        <name>Layout</name>
+    </types>
+    <types>
+        <members>CloneObject__c.All</members>
+        <members>MainObject__c.All</members>
+        <name>ListView</name>
+    </types>
+    <version>43.0</version>
+</Package>
