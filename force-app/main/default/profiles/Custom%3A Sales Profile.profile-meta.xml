@@ -15,7 +15,7 @@
     <custom>true</custom>
     <fieldPermissions>
         <editable>true</editable>
-        <field>Account.Account_info__c</field>
+        <field>Account.Telephone__c</field>
         <readable>true</readable>
     </fieldPermissions>
     <fieldPermissions>

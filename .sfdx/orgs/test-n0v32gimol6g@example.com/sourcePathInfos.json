@@ -1,0 +1,762 @@
+[
+    [
+        "C:\\Users\\AL1976\\Myproject\\clone\\Repo\\force-app",
+        {
+            "sourcePath": "C:\\Users\\AL1976\\Myproject\\clone\\Repo\\force-app",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1537356151365,
+            "changeTime": 1537356151365,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "C:\\Users\\AL1976\\Myproject\\clone\\Repo\\force-app\\main",
+        {
+            "sourcePath": "C:\\Users\\AL1976\\Myproject\\clone\\Repo\\force-app\\main",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1537356151365,
+            "changeTime": 1537356151365,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\AL1976\\Myproject\\clone\\Repo\\force-app\\main\\default",
+        {
+            "sourcePath": "C:\\Users\\AL1976\\Myproject\\clone\\Repo\\force-app\\main\\default",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1537356151817,
+            "changeTime": 1537356151817,
+            "contentHash": "1822748299071dcd30778b31e0e522eda00a875a",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\AL1976\\Myproject\\clone\\Repo\\force-app\\main\\default\\classes",
+        {
+            "sourcePath": "C:\\Users\\AL1976\\Myproject\\clone\\Repo\\force-app\\main\\default\\classes",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1537356151429,
+            "changeTime": 1537356151429,
+            "contentHash": "e71e0f99967d3760f35731a07adfa8ea708a6ad8",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\AL1976\\Myproject\\clone\\Repo\\force-app\\main\\default\\classes\\AccountContactiNfo.cls",
+        {
+            "sourcePath": "C:\\Users\\AL1976\\Myproject\\clone\\Repo\\force-app\\main\\default\\classes\\AccountContactiNfo.cls",
+            "isDirectory": false,
+            "size": 627,
+            "modifiedTime": 1537356151373,
+            "changeTime": 1537356151373,
+            "contentHash": "f08265c59efd29b32b22db336a2ee4f8847d6d3e",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\AL1976\\Myproject\\clone\\Repo\\force-app\\main\\default\\classes\\AccountContactiNfo.cls-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\AL1976\\Myproject\\clone\\Repo\\force-app\\main\\default\\classes\\AccountContactiNfo.cls-meta.xml",
+            "isDirectory": false,
+            "size": 179,
+            "modifiedTime": 1537356151373,
+            "changeTime": 1537356151373,
+            "contentHash": "f6f319f126dfc21d5abbffe6c65211457fdfa270",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\AL1976\\Myproject\\clone\\Repo\\force-app\\main\\default\\classes\\AccountDetails.cls",
+        {
+            "sourcePath": "C:\\Users\\AL1976\\Myproject\\clone\\Repo\\force-app\\main\\default\\classes\\AccountDetails.cls",
+            "isDirectory": false,
+            "size": 308,
+            "modifiedTime": 1537356151421,
+            "changeTime": 1537356151421,
+            "contentHash": "d5bb55481704550f419788fc13ea7f5a646b0995",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\AL1976\\Myproject\\clone\\Repo\\force-app\\main\\default\\classes\\AccountDetails.cls-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\AL1976\\Myproject\\clone\\Repo\\force-app\\main\\default\\classes\\AccountDetails.cls-meta.xml",
+            "isDirectory": false,
+            "size": 179,
+            "modifiedTime": 1537356151425,
+            "changeTime": 1537356151425,
+            "contentHash": "36653e7488879c0ed6d7bd08805295fa678ca822",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\AL1976\\Myproject\\clone\\Repo\\force-app\\main\\default\\classes\\AccountDetails1.cls",
+        {
+            "sourcePath": "C:\\Users\\AL1976\\Myproject\\clone\\Repo\\force-app\\main\\default\\classes\\AccountDetails1.cls",
+            "isDirectory": false,
+            "size": 227,
+            "modifiedTime": 1537356151429,
+            "changeTime": 1537356151429,
+            "contentHash": "e2eaa8d127ca060ec12452172ac1451b608ebf1e",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\AL1976\\Myproject\\clone\\Repo\\force-app\\main\\default\\classes\\AccountDetails1.cls-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\AL1976\\Myproject\\clone\\Repo\\force-app\\main\\default\\classes\\AccountDetails1.cls-meta.xml",
+            "isDirectory": false,
+            "size": 179,
+            "modifiedTime": 1537356151433,
+            "changeTime": 1537356151433,
+            "contentHash": "c13f7d99a71a3f8f0a40f33425ceb5e91dfc6aa5",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\AL1976\\Myproject\\clone\\Repo\\force-app\\main\\default\\layouts",
+        {
+            "sourcePath": "C:\\Users\\AL1976\\Myproject\\clone\\Repo\\force-app\\main\\default\\layouts",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1537356151505,
+            "changeTime": 1537356151505,
+            "contentHash": "515b42b1f3f7b98e449cc2241c12f80b7f33f89f",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\AL1976\\Myproject\\clone\\Repo\\force-app\\main\\default\\layouts\\Account-Account %28Marketing%29 Layout.layout-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\AL1976\\Myproject\\clone\\Repo\\force-app\\main\\default\\layouts\\Account-Account %28Marketing%29 Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 9773,
+            "modifiedTime": 1537356737699,
+            "changeTime": 1537356737699,
+            "contentHash": "ba2d82dc5fec554753da30439e5c21a3456ac624"
+        }
+    ],
+    [
+        "C:\\Users\\AL1976\\Myproject\\clone\\Repo\\force-app\\main\\default\\layouts\\Account-Account %28Sales%29 Layout.layout-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\AL1976\\Myproject\\clone\\Repo\\force-app\\main\\default\\layouts\\Account-Account %28Sales%29 Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 9725,
+            "modifiedTime": 1537356737687,
+            "changeTime": 1537356737687,
+            "contentHash": "b991a0588a088063267fd8480e308881870aa66b"
+        }
+    ],
+    [
+        "C:\\Users\\AL1976\\Myproject\\clone\\Repo\\force-app\\main\\default\\layouts\\Account-Account %28Support%29 Layout.layout-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\AL1976\\Myproject\\clone\\Repo\\force-app\\main\\default\\layouts\\Account-Account %28Support%29 Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 9773,
+            "modifiedTime": 1537356737729,
+            "changeTime": 1537356737729,
+            "contentHash": "6820aad0320302553d6048a319b347136fdb1d18"
+        }
+    ],
+    [
+        "C:\\Users\\AL1976\\Myproject\\clone\\Repo\\force-app\\main\\default\\layouts\\Account-Account Layout.layout-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\AL1976\\Myproject\\clone\\Repo\\force-app\\main\\default\\layouts\\Account-Account Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 9725,
+            "modifiedTime": 1537356737712,
+            "changeTime": 1537356737712,
+            "contentHash": "199886256b36c96cfa838ceeb823e63f54def1bf"
+        }
+    ],
+    [
+        "C:\\Users\\AL1976\\Myproject\\clone\\Repo\\force-app\\main\\default\\layouts\\CloneObject__c-CloneObject Layout.layout-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\AL1976\\Myproject\\clone\\Repo\\force-app\\main\\default\\layouts\\CloneObject__c-CloneObject Layout.layout-meta.xml",
+            "isDirectory": false,
+            "size": 3305,
+            "modifiedTime": 1537356151501,
+            "changeTime": 1537356151501,
+            "contentHash": "780eda947d6acc4ddca23df5c2d08469b0c5e42b",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\AL1976\\Myproject\\clone\\Repo\\force-app\\main\\default\\layouts\\MainObject__c-MainObject Layout.layout-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\AL1976\\Myproject\\clone\\Repo\\force-app\\main\\default\\layouts\\MainObject__c-MainObject Layout.layout-meta.xml",
+            "isDirectory": false,
+            "size": 3299,
+            "modifiedTime": 1537356151505,
+            "changeTime": 1537356151505,
+            "contentHash": "55b160813c38bbbc45bada61cb768a5413f9633d",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\AL1976\\Myproject\\clone\\Repo\\force-app\\main\\default\\objects",
+        {
+            "sourcePath": "C:\\Users\\AL1976\\Myproject\\clone\\Repo\\force-app\\main\\default\\objects",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1537356151639,
+            "changeTime": 1537356151639,
+            "contentHash": "56936a9cf34213f9cb5f4a6b888f400e9b00d4bb",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\AL1976\\Myproject\\clone\\Repo\\force-app\\main\\default\\objects\\Account",
+        {
+            "sourcePath": "C:\\Users\\AL1976\\Myproject\\clone\\Repo\\force-app\\main\\default\\objects\\Account",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1537356151513,
+            "changeTime": 1537356151513,
+            "contentHash": "70f132fe13e692866a539996a6b9a05b46076a07",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\AL1976\\Myproject\\clone\\Repo\\force-app\\main\\default\\objects\\Account\\fields",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\AL1976\\Myproject\\clone\\Repo\\force-app\\main\\default\\objects\\Account\\fields",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1537356737640,
+            "changeTime": 1537356737640,
+            "contentHash": "105ac93cd2832f954b3a08c0c826ffc865798cae"
+        }
+    ],
+    [
+        "C:\\Users\\AL1976\\Myproject\\clone\\Repo\\force-app\\main\\default\\objects\\Account\\fields\\Account_info__c.field-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\AL1976\\Myproject\\clone\\Repo\\force-app\\main\\default\\objects\\Account\\fields\\Account_info__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 387,
+            "modifiedTime": 1537356151517,
+            "changeTime": 1537356151517,
+            "contentHash": "2b6836af7cc01b582a2382372832312fba4d6127",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\AL1976\\Myproject\\clone\\Repo\\force-app\\main\\default\\objects\\CloneObject__c",
+        {
+            "sourcePath": "C:\\Users\\AL1976\\Myproject\\clone\\Repo\\force-app\\main\\default\\objects\\CloneObject__c",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1537356151635,
+            "changeTime": 1537356151635,
+            "contentHash": "17d8e93f04808237abc783b5023ded7803f19fd1",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\AL1976\\Myproject\\clone\\Repo\\force-app\\main\\default\\objects\\CloneObject__c\\CloneObject__c.object-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\AL1976\\Myproject\\clone\\Repo\\force-app\\main\\default\\objects\\CloneObject__c\\CloneObject__c.object-meta.xml",
+            "isDirectory": false,
+            "size": 2251,
+            "modifiedTime": 1537356151521,
+            "changeTime": 1537356151521,
+            "contentHash": "292910096aa1a0cd72ab1a218894c3049fc31bb9",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\AL1976\\Myproject\\clone\\Repo\\force-app\\main\\default\\objects\\CloneObject__c\\fields",
+        {
+            "sourcePath": "C:\\Users\\AL1976\\Myproject\\clone\\Repo\\force-app\\main\\default\\objects\\CloneObject__c\\fields",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1537356151550,
+            "changeTime": 1537356151550,
+            "contentHash": "604d5eb8a640f43c162ed6e33aafdb2bd847069b",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\AL1976\\Myproject\\clone\\Repo\\force-app\\main\\default\\objects\\CloneObject__c\\fields\\Mobile_Number__c.field-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\AL1976\\Myproject\\clone\\Repo\\force-app\\main\\default\\objects\\CloneObject__c\\fields\\Mobile_Number__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 370,
+            "modifiedTime": 1537356151529,
+            "changeTime": 1537356151529,
+            "contentHash": "570850fa78cc2800b7e533b5e2f82b005ad2c92a",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\AL1976\\Myproject\\clone\\Repo\\force-app\\main\\default\\objects\\CloneObject__c\\fields\\My_Address__c.field-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\AL1976\\Myproject\\clone\\Repo\\force-app\\main\\default\\objects\\CloneObject__c\\fields\\My_Address__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 416,
+            "modifiedTime": 1537356151534,
+            "changeTime": 1537356151534,
+            "contentHash": "6647093b87532c9f2470246bd2ba3b25e8ff9c87",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\AL1976\\Myproject\\clone\\Repo\\force-app\\main\\default\\objects\\CloneObject__c\\fields\\Objectnumber__c.field-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\AL1976\\Myproject\\clone\\Repo\\force-app\\main\\default\\objects\\CloneObject__c\\fields\\Objectnumber__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 575,
+            "modifiedTime": 1537356151542,
+            "changeTime": 1537356151542,
+            "contentHash": "2e1739a5fca8146b2bffaefa3c61812c8ce3c941",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\AL1976\\Myproject\\clone\\Repo\\force-app\\main\\default\\objects\\CloneObject__c\\fields\\Status__c.field-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\AL1976\\Myproject\\clone\\Repo\\force-app\\main\\default\\objects\\CloneObject__c\\fields\\Status__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 408,
+            "modifiedTime": 1537356151550,
+            "changeTime": 1537356151550,
+            "contentHash": "631342987eac9ba4d8e6e4e677e5912cf1aaffbf",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\AL1976\\Myproject\\clone\\Repo\\force-app\\main\\default\\objects\\CloneObject__c\\listViews",
+        {
+            "sourcePath": "C:\\Users\\AL1976\\Myproject\\clone\\Repo\\force-app\\main\\default\\objects\\CloneObject__c\\listViews",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1537356151635,
+            "changeTime": 1537356151635,
+            "contentHash": "0b3931647b535802350a588b8bf16d4ae6cc2ed6",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\AL1976\\Myproject\\clone\\Repo\\force-app\\main\\default\\objects\\CloneObject__c\\listViews\\All.listView-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\AL1976\\Myproject\\clone\\Repo\\force-app\\main\\default\\objects\\CloneObject__c\\listViews\\All.listView-meta.xml",
+            "isDirectory": false,
+            "size": 210,
+            "modifiedTime": 1537356151639,
+            "changeTime": 1537356151639,
+            "contentHash": "0e12c1b5a25bc6685e00c26cb98c9986fc1d82c4",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\AL1976\\Myproject\\clone\\Repo\\force-app\\main\\default\\objects\\MainObject__c",
+        {
+            "sourcePath": "C:\\Users\\AL1976\\Myproject\\clone\\Repo\\force-app\\main\\default\\objects\\MainObject__c",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1537356151765,
+            "changeTime": 1537356151765,
+            "contentHash": "79d56bf95cb89d3f9b37a7733f844a6e2257b533",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\AL1976\\Myproject\\clone\\Repo\\force-app\\main\\default\\objects\\MainObject__c\\fields",
+        {
+            "sourcePath": "C:\\Users\\AL1976\\Myproject\\clone\\Repo\\force-app\\main\\default\\objects\\MainObject__c\\fields",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1537356151711,
+            "changeTime": 1537356151711,
+            "contentHash": "ac4c235dbb893a56dcd97db9ac8408cc847b5ddc",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\AL1976\\Myproject\\clone\\Repo\\force-app\\main\\default\\objects\\MainObject__c\\fields\\Address__c.field-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\AL1976\\Myproject\\clone\\Repo\\force-app\\main\\default\\objects\\MainObject__c\\fields\\Address__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 410,
+            "modifiedTime": 1537356151659,
+            "changeTime": 1537356151659,
+            "contentHash": "72bf327bf4313ec6ab342846ac5e479f6f72880f",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\AL1976\\Myproject\\clone\\Repo\\force-app\\main\\default\\objects\\MainObject__c\\fields\\No_Of_Child__c.field-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\AL1976\\Myproject\\clone\\Repo\\force-app\\main\\default\\objects\\MainObject__c\\fields\\No_Of_Child__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 448,
+            "modifiedTime": 1537356151667,
+            "changeTime": 1537356151667,
+            "contentHash": "f2cd56cdc73d4c971f02862c8864f033aebb83ca",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\AL1976\\Myproject\\clone\\Repo\\force-app\\main\\default\\objects\\MainObject__c\\fields\\Phone_Number__c.field-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\AL1976\\Myproject\\clone\\Repo\\force-app\\main\\default\\objects\\MainObject__c\\fields\\Phone_Number__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 368,
+            "modifiedTime": 1537356151711,
+            "changeTime": 1537356151711,
+            "contentHash": "60b15154af9fa4e5c22a14138c30c3ab5b4b69ba",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\AL1976\\Myproject\\clone\\Repo\\force-app\\main\\default\\objects\\MainObject__c\\listViews",
+        {
+            "sourcePath": "C:\\Users\\AL1976\\Myproject\\clone\\Repo\\force-app\\main\\default\\objects\\MainObject__c\\listViews",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1537356151769,
+            "changeTime": 1537356151769,
+            "contentHash": "0b3931647b535802350a588b8bf16d4ae6cc2ed6",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\AL1976\\Myproject\\clone\\Repo\\force-app\\main\\default\\objects\\MainObject__c\\listViews\\All.listView-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\AL1976\\Myproject\\clone\\Repo\\force-app\\main\\default\\objects\\MainObject__c\\listViews\\All.listView-meta.xml",
+            "isDirectory": false,
+            "size": 210,
+            "modifiedTime": 1537356151769,
+            "changeTime": 1537356151769,
+            "contentHash": "0e12c1b5a25bc6685e00c26cb98c9986fc1d82c4",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\AL1976\\Myproject\\clone\\Repo\\force-app\\main\\default\\objects\\MainObject__c\\MainObject__c.object-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\AL1976\\Myproject\\clone\\Repo\\force-app\\main\\default\\objects\\MainObject__c\\MainObject__c.object-meta.xml",
+            "isDirectory": false,
+            "size": 2248,
+            "modifiedTime": 1537356151647,
+            "changeTime": 1537356151647,
+            "contentHash": "335a1741061af3cba8136f972dbb439603821364",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\AL1976\\Myproject\\clone\\Repo\\force-app\\main\\default\\profiles",
+        {
+            "sourcePath": "C:\\Users\\AL1976\\Myproject\\clone\\Repo\\force-app\\main\\default\\profiles",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1537356151813,
+            "changeTime": 1537356151813,
+            "contentHash": "9c367b0e719eb8c48c5b0d9cbfb5f580a4bd6717",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\AL1976\\Myproject\\clone\\Repo\\force-app\\main\\default\\profiles\\Admin.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\AL1976\\Myproject\\clone\\Repo\\force-app\\main\\default\\profiles\\Admin.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 20309,
+            "modifiedTime": 1537356737788,
+            "changeTime": 1537356737788,
+            "contentHash": "5aabf086aada6b7ac0773b5eee4d68c13ca987b0"
+        }
+    ],
+    [
+        "C:\\Users\\AL1976\\Myproject\\clone\\Repo\\force-app\\main\\default\\profiles\\Custom%3A Marketing Profile.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\AL1976\\Myproject\\clone\\Repo\\force-app\\main\\default\\profiles\\Custom%3A Marketing Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 6238,
+            "modifiedTime": 1537356737745,
+            "changeTime": 1537356737745,
+            "contentHash": "bd30b39467f4398bfd37d14b0010a59ac94c3e67"
+        }
+    ],
+    [
+        "C:\\Users\\AL1976\\Myproject\\clone\\Repo\\force-app\\main\\default\\profiles\\Custom%3A Sales Profile.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\AL1976\\Myproject\\clone\\Repo\\force-app\\main\\default\\profiles\\Custom%3A Sales Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 6234,
+            "modifiedTime": 1537356737769,
+            "changeTime": 1537356737769,
+            "contentHash": "85dcbdfd8a8a19c2a822b0ff0bb6f2021e85ace3"
+        }
+    ],
+    [
+        "C:\\Users\\AL1976\\Myproject\\clone\\Repo\\force-app\\main\\default\\profiles\\Custom%3A Support Profile.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\AL1976\\Myproject\\clone\\Repo\\force-app\\main\\default\\profiles\\Custom%3A Support Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 6574,
+            "modifiedTime": 1537356737760,
+            "changeTime": 1537356737760,
+            "contentHash": "e64271f227667160f24b54a2ed74de9e972bdbbc"
+        }
+    ],
+    [
+        "C:\\Users\\AL1976\\Myproject\\clone\\Repo\\force-app\\main\\default\\triggers",
+        {
+            "sourcePath": "C:\\Users\\AL1976\\Myproject\\clone\\Repo\\force-app\\main\\default\\triggers",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1537356151921,
+            "changeTime": 1537356151921,
+            "contentHash": "83385d45c363a9693cba9483db5b2b102248e444",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\AL1976\\Myproject\\clone\\Repo\\force-app\\main\\default\\triggers\\CloneTrigger.trigger",
+        {
+            "sourcePath": "C:\\Users\\AL1976\\Myproject\\clone\\Repo\\force-app\\main\\default\\triggers\\CloneTrigger.trigger",
+            "isDirectory": false,
+            "size": 857,
+            "modifiedTime": 1537356151821,
+            "changeTime": 1537356151821,
+            "contentHash": "8c1556bbf2dc19fd15297bd9f76424c949b6d590",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\AL1976\\Myproject\\clone\\Repo\\force-app\\main\\default\\triggers\\CloneTrigger.trigger-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\AL1976\\Myproject\\clone\\Repo\\force-app\\main\\default\\triggers\\CloneTrigger.trigger-meta.xml",
+            "isDirectory": false,
+            "size": 183,
+            "modifiedTime": 1537356151825,
+            "changeTime": 1537356151825,
+            "contentHash": "e400f5829794ad8a969c0e8dc48352687f6fe9ed",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\AL1976\\Myproject\\clone\\Repo\\force-app\\main\\default\\triggers\\CountNoOfChild.trigger",
+        {
+            "sourcePath": "C:\\Users\\AL1976\\Myproject\\clone\\Repo\\force-app\\main\\default\\triggers\\CountNoOfChild.trigger",
+            "isDirectory": false,
+            "size": 673,
+            "modifiedTime": 1537356151909,
+            "changeTime": 1537356151909,
+            "contentHash": "263cd3c9fefcb10bcfd4c078a7aa91afee4d1e51",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\AL1976\\Myproject\\clone\\Repo\\force-app\\main\\default\\triggers\\CountNoOfChild.trigger-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\AL1976\\Myproject\\clone\\Repo\\force-app\\main\\default\\triggers\\CountNoOfChild.trigger-meta.xml",
+            "isDirectory": false,
+            "size": 183,
+            "modifiedTime": 1537356151913,
+            "changeTime": 1537356151913,
+            "contentHash": "e400f5829794ad8a969c0e8dc48352687f6fe9ed",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\AL1976\\Myproject\\clone\\Repo\\force-app\\main\\default\\triggers\\deleteRelatedChildRecord.trigger",
+        {
+            "sourcePath": "C:\\Users\\AL1976\\Myproject\\clone\\Repo\\force-app\\main\\default\\triggers\\deleteRelatedChildRecord.trigger",
+            "isDirectory": false,
+            "size": 629,
+            "modifiedTime": 1537356151921,
+            "changeTime": 1537356151921,
+            "contentHash": "e9470b4ed7289bb86d8fe772d0101569b81244f3",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\AL1976\\Myproject\\clone\\Repo\\force-app\\main\\default\\triggers\\deleteRelatedChildRecord.trigger-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\AL1976\\Myproject\\clone\\Repo\\force-app\\main\\default\\triggers\\deleteRelatedChildRecord.trigger-meta.xml",
+            "isDirectory": false,
+            "size": 183,
+            "modifiedTime": 1537356151925,
+            "changeTime": 1537356151925,
+            "contentHash": "e400f5829794ad8a969c0e8dc48352687f6fe9ed",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\AL1976\\Myproject\\clone\\Repo",
+        {
+            "sourcePath": "C:\\Users\\AL1976\\Myproject\\clone\\Repo",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1537356151933,
+            "changeTime": 1537356151933,
+            "contentHash": "6dcf6560486996ad5e53b6eb9f86d5e5ec727e3e",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\AL1976\\Myproject\\clone\\Repo\\force-app\\main\\default\\objects\\Account\\fields\\Telephone__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\AL1976\\Myproject\\clone\\Repo\\force-app\\main\\default\\objects\\Account\\fields\\Telephone__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 319,
+            "modifiedTime": 1537356737641,
+            "changeTime": 1537356737641,
+            "contentHash": "49326c0e881061aee2f8f0a98f26d9f54ea87263"
+        }
+    ]
+]
